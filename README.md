@@ -1,7 +1,10 @@
 <h1> Hi, I'm Enzo Garcia! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
 
 <a href="https://www.linkedin.com/in/enzo-matias-garcia-gil-7861a2231/">
-  <img align="left" alt="Enzo's LinkedIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="Enzo's LinkedIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" style="margin-right:8px;" />
+  <img align="left" alt="Enzo's Git" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/git.svg" style="margin-right:8px;" />
+  <img align="left" alt="Enzo's GitHub" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/github.svg" />
+
 </a>
 </br>
 <br>
