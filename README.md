@@ -2,8 +2,16 @@
 
 <a href="https://www.linkedin.com/in/enzo-matias-garcia-gil-7861a2231/">
   <img align="left" alt="Enzo's LinkedIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" style="margin-right:8px;" />
+  <br>
+  <br>
+  <h3> My knowledge includes </h3>
   <img align="left" alt="Enzo's Git" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/git.svg" style="margin-right:8px;" />
-  <img align="left" alt="Enzo's GitHub" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/github.svg" />
+  <img align="left" alt="Enzo's GitHub" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/github.svg" style="margin-right:8px;" />
+  <img align="left" alt="Enzo's Linux" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/linux.svg" style="margin-right:8px;" />
+  <img align="left" alt="Enzo's Kali linux" width="24px" src="https://i.pinimg.com/736x/33/77/44/337744e73440024bc1918a59f6e891fc.jpg" style="margin-right:8px;" />
+  
+
+  
 
 </a>
 </br>
